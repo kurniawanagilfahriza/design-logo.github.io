@@ -67,7 +67,9 @@ body {
 		margin-top: 15%
 	}
 	#banner .text-banner-1 {
-		font-size: 3.8vh;
+		width: 100%;
+    		font-size: 30px;
+   		font-family: "Audiowide";
 		margin-bottom: 10px;
 	}
 	#banner .text-banner-2 {
@@ -114,11 +116,6 @@ body {
 	#portfolio img {
 		width: 100% !important;
 	}
-  #banner .text-banner-1 {
-    width: 100%;
-    font-size: 30px;
-    font-family: "Audiowide";
-  }
 }
 
 #about {
