@@ -312,9 +312,9 @@ body {
     margin-left: -3px;
   }
   #testimoni img {
-    margin-left: -15px;
+    margin-left: -10px;
   }
-  #paket button {
+  #paket text-uppercase {
     font-size: 15px;
   }
 }
